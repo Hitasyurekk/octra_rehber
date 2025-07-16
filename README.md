@@ -51,9 +51,8 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 & ~/.octra/wallet-generator/start.ps1
 ```
 
-**Windows:**
-Dosya Gezgini'ni açıp `C:\Users\KullaniciAdiniz` dizinine gidin ve `.octra` klasörünü silin veya PowerShell'de aşağıdaki komutu kullanın:
+**Cüzdan olulturma:**
 
-```powershell
-Remove-Item -Path ~/.octra -Recurse -Force
-```
+Her şey başarılı olduktan sonra web sayfası açılacak ve burada bir cüzdan oluşturulacak oluşturulan cüzdan keyi ve bilgisini verilen konumda görebilirsiniz.
+<img width="1440" height="755" alt="image" src="https://github.com/user-attachments/assets/3ff3e294-9f7f-46ad-8f03-f220b825545f" />
+
