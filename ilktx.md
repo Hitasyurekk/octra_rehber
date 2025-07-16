@@ -13,7 +13,7 @@ cp wallet.json.example wallet.json
 ``` 
 ---
 
-##Wallet Bilgilerini Değiştirme 
+# Wallet Bilgilerini Değiştirme 
 
 Bu komut ile wallet bilgilerini değiştireceğiz.
 
