@@ -30,6 +30,7 @@ powershell -c "irm octra.org/wallet-generator.ps1 | iex"
 ```
 
 -----
+**Linux/Mac için:**
 
 ```bash
 # Betiğe çalıştırma izni verin (gerekirse)
