@@ -1,4 +1,3 @@
-Elbette, GitHub projelerinizde kullanabileceğiniz, Markdown formatında hazırlanmış detaylı bir kurulum rehberi aşağıdadır.
 
 -----
 
