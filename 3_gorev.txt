@@ -1,0 +1,9 @@
+Şimdi sıra 3. görevde devam ediyoruz.
+
+Öncelikle önce ki kurulumda ki dosyanızı visual studio code içinde açıyoruz ve terminal içine giriyoruz.
+
+Rust yüklü değilse öncelikle bu komut ile birlikte rust yüklemeniz gerekiyor.
+
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+source $HOME/.cargo/env
+
